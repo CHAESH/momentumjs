@@ -43,12 +43,20 @@ body{
 
 #date{
     position: absolute;
-    bottom: 10px;
+    bottom: 40px;
     left: 10px;
     color: #FFF;
-    font-size: 25px;   
+    font-size: 30px;   
+    font-family: 'Noto Sans', sans-serif;
 }
-
+.weather{
+    position: absolute;
+    bottom: 15px;
+    left: 10px;
+    color: #FFF;
+    font-size: 20px;
+    font-family: 'Noto Sans', sans-serif;
+}
 /* ------- content -------*/
 .content{
     width: 500px;
